@@ -26,9 +26,13 @@ public class SoftDrink {
 	@Value("${sts.price}")
 	private float price;
 	
-	
+	//Environment Properties(fixed name)
 	@Value("${os.name}")
 	private String osname;
+	
+	//Environment Variable (fixed name)
+	@Value("${path}")
+	private String path;
 	
 //	@Autowired
 //	private Cakes cakes;
