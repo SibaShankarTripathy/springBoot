@@ -1,0 +1,47 @@
+{
+  "groups": [
+    {
+      "name": "gen.store",
+      "type": "com.sst.store.GeneralStore",
+      "sourceType": "com.sst.store.GeneralStore"
+    }
+  ],
+  "properties": [
+    {
+      "name": "gen.store.list-type",
+      "type": "java.util.List<java.lang.String>",
+      "sourceType": "com.sst.store.GeneralStore"
+    },
+    {
+      "name": "gen.store.map-type",
+      "type": "java.util.Map<java.lang.String,java.lang.Object>",
+      "sourceType": "com.sst.store.GeneralStore"
+    },
+    {
+      "name": "gen.store.mega-store",
+      "type": "com.sst.store.MegaStore",
+      "sourceType": "com.sst.store.GeneralStore"
+    },
+    {
+      "name": "gen.store.set-type",
+      "type": "java.util.Set<java.lang.String>",
+      "sourceType": "com.sst.store.GeneralStore"
+    },
+    {
+      "name": "gen.store.snacks",
+      "type": "java.lang.String",
+      "sourceType": "com.sst.store.GeneralStore"
+    },
+    {
+      "name": "gen.store.soft-drink",
+      "type": "java.lang.String",
+      "sourceType": "com.sst.store.GeneralStore"
+    },
+    {
+      "name": "gen.store.string-array-type",
+      "type": "java.lang.String[]",
+      "sourceType": "com.sst.store.GeneralStore"
+    }
+  ],
+  "hints": []
+}

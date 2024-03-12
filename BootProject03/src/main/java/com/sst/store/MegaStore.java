@@ -8,4 +8,4 @@ public class MegaStore {
 	private String electricItem;
 	private String cloth;
 }
-//This class is created to show HAS-A property injection. So see on General Store class.
+//This class is created to show HAS-A property injection. So see on GeneralStore class.
